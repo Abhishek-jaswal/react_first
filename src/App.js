@@ -1,10 +1,11 @@
 import React from 'react'
-import Portal from './Components/Portal'
+import Show from './Components/Show'
+
 
 export default function App() {
   return (
     <>
-   <Portal/>
+   <Show/>
     </>
   )
 }
